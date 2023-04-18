@@ -266,7 +266,7 @@
 
 .main__btn:after {
     position: absolute;
-    content: "" ;
+    content: 'Get Started';
     top: 0;
     left: 0;
     width: 0;
@@ -274,7 +274,6 @@
     background: #4837ff;
     transition: all 0.35s;
     border-radius: 4px;
-    text-align: center;
 }
 
 .main__btn:hover {

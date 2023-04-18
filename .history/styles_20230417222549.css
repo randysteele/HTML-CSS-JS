@@ -266,7 +266,7 @@
 
 .main__btn:after {
     position: absolute;
-    content: "" ;
+    content: 'Get Started';
     top: 0;
     left: 0;
     width: 0;
